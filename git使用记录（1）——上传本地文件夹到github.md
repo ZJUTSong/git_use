@@ -47,7 +47,11 @@ git config --global http.sslVerify "false"
 
 2.5 生成了新的token
 
-2.7 重新执行git push -u origin master
+2.6 重新执行git push origin master
+
+2.7 在弹窗里输入新的token
+
+2.8 弹窗或者终端按照提示输入用户名和密码
 
 详见：https://blog.csdn.net/u013977285/article/details/79726354
 
